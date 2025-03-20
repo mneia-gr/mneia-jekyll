@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Μνεία
+email: marios@mneia.gr
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Πρόσωπα, έργα, βιβλία, περιοδικά.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Mneia_GR
+github_username:  mneia-gr
 
 # Build settings
 theme: mneia-theme
@@ -53,3 +51,60 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+permalink: /:year/:month/:day/:title/
+
+collections_dir: collections
+
+collections:
+  people:
+    output: true
+  magazines:
+    output: true
+  magazine-issues:
+    output: true
+  photographs:
+    output: true
+  works:
+    output: true
+  books:
+    output: true
+  publishers:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
+  - scope:
+      path: ""
+      type: "magazines"
+    values:
+      layout: "magazine"
+  - scope:
+      path: ""
+      type: "magazine-issues"
+    values:
+      layout: "magazine-issue"
+  - scope:
+      path: ""
+      type: "photographs"
+    values:
+      layout: "photograph"
+  - scope:
+      path: ""
+      type: "works"
+    values:
+      layout: "work"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book"
+  - scope:
+      path: ""
+      type: "publishers"
+    values:
+      layout: "publisher"
