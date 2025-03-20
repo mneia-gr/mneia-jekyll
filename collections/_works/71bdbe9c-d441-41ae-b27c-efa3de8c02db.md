@@ -6,6 +6,7 @@ links:
       id: 7ea22d2b-4781-4882-af6f-15a6ca286501
       name: Σύλβιος
 name: Από την εγκυκλοπαίδειάν μου
+public-domain: true
 references:
   magazine-issues:
   - attributes:

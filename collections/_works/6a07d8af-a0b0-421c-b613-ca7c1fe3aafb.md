@@ -6,6 +6,7 @@ links:
       id: 3574edd4-5e27-43b6-853c-af118327b90e
       name: Νικόλαος Πετιμεζάς - Λαύρας
 name: Ο μην του μέλιτος
+public-domain: true
 references:
   magazine-issues:
   - attributes:
