@@ -114,3 +114,4 @@ destination: "/home/m/Mneia/mneia-gr"
 keep_files:
   - ".git"
   - README.md
+  - CNAME
