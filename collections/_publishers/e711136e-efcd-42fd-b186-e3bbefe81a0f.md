@@ -13,7 +13,14 @@ references:
       editors: []
       id: 7ec57776-b32b-43ff-a39f-753f5a839e5e
       isbn:
+        article: '52'
+        check_digit: '8'
+        group: '960'
+        group_name: Greece
         hyphenated: 960-8429-52-8
+        prefix: null
+        publisher: '8429'
+        publisher_name: Εκδόσεις Ανατολικός
       name: 'Τα τραγούδια των Ελλήνων: 1500 τραγούδια από το 1910 μέχρι σήμερα'
       publication_date: '2004'
     publisher:

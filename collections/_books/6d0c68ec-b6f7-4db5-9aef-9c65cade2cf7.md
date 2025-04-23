@@ -22,7 +22,14 @@ references:
       editors: []
       id: 6d0c68ec-b6f7-4db5-9aef-9c65cade2cf7
       isbn:
+        article: '66'
+        check_digit: '1'
+        group: '960'
+        group_name: Greece
         hyphenated: 978-960-7827-66-1
+        prefix: '978'
+        publisher: '7827'
+        publisher_name: Εκδόσεις Ιανός
       name: Εδώ είναι του Ρασούλη
       publication_date: Ιανουάριος 2007
     publisher:

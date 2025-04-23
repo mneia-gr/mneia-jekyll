@@ -13,7 +13,14 @@ references:
       editors: []
       id: 64c8e372-fb9d-438b-b00c-1102fe16a927
       isbn:
+        article: '0'
+        check_digit: '9'
+        group: '618'
+        group_name: Greece
         hyphenated: 978-618-85809-0-9
+        prefix: '978'
+        publisher: '85809'
+        publisher_name: Fishbowl Music Tank
       name: 'Κατασκευή λαϊκής κιθάρας: Θεωρία και πράξη'
       publication_date: '2022'
     publisher:
