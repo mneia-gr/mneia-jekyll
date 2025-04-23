@@ -39,6 +39,13 @@ A list of movies and TV series in which music is prominent. One day this might b
       </td>
       <td>Προετοιμασίες και πρόβες για ένα καινούριο μιούζικαλ, στον απαιτητικό κόσμο του Broadway.</td>
     </tr>
+    <tr>
+      <td><a href="https://www.imdb.com/title/tt0298203/">8 Mile</a> (2002)</td>
+      <td>
+        Δραματική ταινία για τα πρώτα βήματα ενός νεαρού rapper, με μερικά αυτοβιογραφικά στοιχεία από τη ζωή του
+        Eminem, οποίος παίζει και τον πρωταγωνιστικό ρόλο.
+      </td>
+    </tr>
     <!-- A -->
     <tr><th colspan="2" style="text-align: center">A</th></tr>
     <tr>
@@ -52,6 +59,12 @@ A list of movies and TV series in which music is prominent. One day this might b
       </td>
     </tr>
     <tr>
+      <td><a href="https://www.imdb.com/title/tt1517451/">A Star is Born</a> (2018)</td>
+      <td>
+        Μυθοπλασία, δραματική ταινία για την πορεία μιας ανερχόμενης τραγουδοποιού, την οποία υποδύεται η Lady Gaga.
+      </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.imdb.com/title/tt0078754/">All That Jazz</a> (1979)
       </td>
@@ -60,13 +73,48 @@ A list of movies and TV series in which music is prominent. One day this might b
         αυτοκαταστροφικός, ενώ ταυτόχρονα ετοιμάζει το πιο αριστουργηματικό του έργο.
       </td>
     </tr>
+    <!-- G -->
+    <tr><th colspan="2" style="text-align: center">G</th></tr>
+    <tr>
+      <td><a href="https://www.imdb.com/title/tt2473602/">Get on Up</a> (2014)</td>
+      <td>Βιογραφική ταινία για τον James Brown.</td>
+    </tr>
+    <!-- L -->
+    <tr><th colspan="2" style="text-align: center">L</th></tr>
+    <tr>
+      <td><a href="https://www.imdb.com/title/tt0903657/">Love & Mercy</a> (2014)</td>
+      <td>
+        Βιογραφική ταινία για τον Brian Wilson των Beach Boys, και τις ιδιοφυείς συνθέσεις του παρά τα προβλήματα υγείας
+        που αντιμετώπιζε.
+      </td>
+    </tr>
+    <!-- R -->
+    <tr><th colspan="2" style="text-align: center">R</th></tr>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt0350258/">Ray</a> (2004)
+      </td>
+      <td>Βιογραφική ταινία για τον Ray Charles.</td>
+    </tr>
+    <!-- S -->
+    <tr><th colspan="2" style="text-align: center">S</th></tr>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt1398426/">Straight Outta Compton</a> (2015)
+      </td>
+      <td>
+        Βιογραφική ταινία για την δημιουργία, επιτυχία και εν τέλει διάλυση των N.W.A.
+      </td>
+    </tr>
   </tbody>
 </table>
 
 <!-- # -->
 
 <!-- A -->
+*  A Star Is Born (1937)
 * [A Star Is Born](https://www.imdb.com/title/tt0047522/) [1954]
+* A Star Is Born (1976)
 * [All That Jazz: Reinking and Foldi](https://www.imdb.com/title/tt6240610/) [2014]
 * [Amazing Grace](https://www.imdb.com/title/tt4935462/) [2018]
 * [Amy](https://www.imdb.com/title/tt2870648/) [2015]
@@ -75,11 +123,13 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Annie](https://www.imdb.com/title/tt1823664/) [2014]
 
 <!-- B -->
+* Back to Black (2024)
 * [Bananaz](https://www.imdb.com/title/tt1168773/) [2008]
 * [Bird](https://www.imdb.com/title/tt0094747/) [1988]
 * [Black Nativity](https://www.imdb.com/title/tt1425922/) [2013]
 * [Blues Brothers 2000](https://www.imdb.com/title/tt0118747/) [1998]
 * [Bob Dylan: Dont Look Back](https://www.imdb.com/title/tt0061589/) [1967]
+* Bohemian Rhapsody (2018)
 * [Bound for Glory](https://www.imdb.com/title/tt0074235/) [1976]
 * [By the Light of the Silvery Moon](https://www.imdb.com/title/tt0045586/) [1953]
 * [Bye Bye Birdie](https://www.imdb.com/title/tt0056891/) [1963]
@@ -97,11 +147,13 @@ A list of movies and TV series in which music is prominent. One day this might b
 <!-- D -->
 * [Devo](https://www.imdb.com/title/tt27210519/) [2024]
 * [Dirty Dancing](https://www.imdb.com/title/tt0092890/) [1987]
+* Dirty Pop: The Boy Band Scam
 * [Distant Sky: Nick Cave & The Bad Seeds Live in Copenhagen](https://www.imdb.com/title/tt8217244/) [2018]
 * [Dreamgirls](https://www.imdb.com/title/tt0443489/) [2006]
 * [Dreamin' Wild](https://www.imdb.com/title/tt10245106/) [2022]
 
 <!-- E -->
+* Elvis (2022)
 * [Evita](https://www.imdb.com/title/tt0116250/) [1996]
 
 <!-- F -->
@@ -110,11 +162,11 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Funny Face](https://www.imdb.com/title/tt0050419/) [1957]
 
 <!-- G -->
-* [Get on Up](https://www.imdb.com/title/tt2473602/) [2014]
 * [George Michael Freedom: The Director's Cut](https://www.imdb.com/title/tt8000146/) [2018]
 * [Gigi](https://www.imdb.com/title/tt0051658/) [1958]
 * [Gimme Danger](https://www.imdb.com/title/tt1714917/) [2016]
 * [Grease](https://www.imdb.com/title/tt0077631/) [1978]
+* Green Book
 * [Guys and Dolls](https://www.imdb.com/title/tt0048140/) [1955]
 
 <!-- H -->
@@ -129,6 +181,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Homecoming: A Film by Beyoncé](https://www.imdb.com/title/tt10147546/) [2019]
 
 <!-- I -->
+* I am: Celine Dion
 * [Idiot Prayer](https://www.imdb.com/title/tt12721126/) [2020]
 * [I'm Not There](https://www.imdb.com/title/tt0368794/) [2007]
 * [Into the Woods](https://www.imdb.com/title/tt2180411/) [2014]
@@ -153,7 +206,6 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Little Voice](https://www.imdb.com/title/tt0147004/) [1998]
 * [Live! In Tune and On Time](https://www.imdb.com/title/tt11286478/) [2004]
 * [Liza with a Z](https://www.imdb.com/title/tt0256153/) [1972]
-* [Love & Mercy](https://www.imdb.com/title/tt0903657/) [2014]
 * [Lord Don't Slow Me Down](https://www.imdb.com/title/tt1167522/) [2007]
 
 <!-- M -->
@@ -171,6 +223,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [New York, New York](https://www.imdb.com/title/tt0076451/) [1977]
 * [Newsies](https://www.imdb.com/title/tt0104990/) [1992]
 * [Nirvana: Live at Reading](https://www.imdb.com/title/tt3189338/) [2009]
+* https://www.imdb.com/title/tt0472198/
 
 <!-- O -->
 * [Oasis: Supersonic](https://www.imdb.com/title/tt5213534/) [2016]
@@ -186,9 +239,9 @@ A list of movies and TV series in which music is prominent. One day this might b
 
 <!-- Q -->
 * [Queen: Days of Our Lives](https://www.imdb.com/title/tt1977894/) [2011]
+* Our House: The Madness Musical
 
 <!-- R -->
-* [Ray](https://www.imdb.com/title/tt0350258/) [2004]
 
 <!-- S -->
 * [Saturday Night Fever](https://www.imdb.com/title/tt0076666/) [1977]
@@ -204,7 +257,6 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Sparkle](https://www.imdb.com/title/tt1876451/) [2012]
 * [State Fair](https://www.imdb.com/title/tt0056526/) [1962]
 * [STAX: Soulsville, U.S.A.](https://www.imdb.com/title/tt19891206/) [2024]
-* [Straight Outta Compton](https://www.imdb.com/title/tt1398426/) [2015]
 * [Strictly Ballroom](https://www.imdb.com/title/tt0105488/) [1992]
 * [Summer of Soul (...Or, When the Revolution Could Not Be Televised)](https://www.imdb.com/title/tt11422728/) [2021]
 * [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) [2007]
