@@ -21,7 +21,8 @@ references:
       edition: 1η έκδοση
       editors: []
       id: 6d0c68ec-b6f7-4db5-9aef-9c65cade2cf7
-      isbn: '9789607827661'
+      isbn:
+        hyphenated: 978-960-7827-66-1
       name: Εδώ είναι του Ρασούλη
       publication_date: Ιανουάριος 2007
     publisher:
