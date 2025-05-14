@@ -22,6 +22,7 @@ references:
       authors:
       - id: 7ea22d2b-4781-4882-af6f-15a6ca286501
         name: Σύλβιος
+        reference_name: Σύλβιος
       id: df28d585-9fef-43ab-b0eb-8301ab4acee9
       name: Νοσταλγία
       type: Ποίημα

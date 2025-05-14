@@ -22,6 +22,7 @@ references:
       authors:
       - id: 4424ceec-c5e7-482e-a9cd-4a28d3cf51f4
         name: Σταμάτης Σταματίου
+        reference_name: Σταματίου, Σταμάτης
       id: 3c9cd1fd-af77-493c-a4d9-cc22afd083fd
       name: Ιπποδρομίαι και ιδρωδρομίαι Αθηναϊκαί
       type: Άρθρο

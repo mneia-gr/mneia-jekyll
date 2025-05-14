@@ -22,6 +22,7 @@ references:
       authors:
       - id: 3574edd4-5e27-43b6-853c-af118327b90e
         name: Νικόλαος Πετιμεζάς - Λαύρας
+        reference_name: Πετιμεζάς - Λαύρας, Νικόλαος
       id: 3094c4bd-49ac-450d-bcfd-e9d940bccee1
       name: Μεγάλος άνθρωπος
       type: Διήγημα

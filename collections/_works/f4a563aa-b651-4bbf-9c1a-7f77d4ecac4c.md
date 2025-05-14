@@ -22,6 +22,7 @@ references:
       authors:
       - id: 7ea22d2b-4781-4882-af6f-15a6ca286501
         name: Σύλβιος
+        reference_name: Σύλβιος
       id: f4a563aa-b651-4bbf-9c1a-7f77d4ecac4c
       name: Νυκτερινό... Ίντερβιου
       type: Διήγημα

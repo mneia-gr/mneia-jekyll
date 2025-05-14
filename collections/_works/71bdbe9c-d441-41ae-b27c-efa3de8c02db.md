@@ -22,6 +22,7 @@ references:
       authors:
       - id: 7ea22d2b-4781-4882-af6f-15a6ca286501
         name: Σύλβιος
+        reference_name: Σύλβιος
       id: 71bdbe9c-d441-41ae-b27c-efa3de8c02db
       name: Από την εγκυκλοπαίδειάν μου
       type: Άρθρο

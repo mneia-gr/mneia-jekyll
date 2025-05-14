@@ -22,6 +22,7 @@ references:
       authors:
       - id: 3574edd4-5e27-43b6-853c-af118327b90e
         name: Νικόλαος Πετιμεζάς - Λαύρας
+        reference_name: Πετιμεζάς - Λαύρας, Νικόλαος
       id: 3f8cccbd-0e44-4fbd-a420-b4bf25dc7f3e
       name: '--Κανενός δεν είμαι: Είμαι εγώ!'
       type: Διήγημα
